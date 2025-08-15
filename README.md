@@ -9,9 +9,15 @@ A simple Python script that lets you follow your own account on Bluesky/ATProto.
 
 ## Installation
 
+First, clone the repository to your local machine:
+```bash
+git clone https://github.com/j4ckxyz/bluesky-follow-self.git
+cd bluesky-follow-self
+```
+
 If you don't have Python installed, download it from [python.org](https://www.python.org/downloads/)
 
-Install the required dependencies:
+Next, install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
